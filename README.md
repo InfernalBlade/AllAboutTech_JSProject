@@ -26,7 +26,7 @@
 <h3 align="center">AllAboutTech News</h3>
 
   <p align="center">
-    <a href="https://infernalblade.github.io/AllAboutTech-JS_Advanced_Project/">View Demo »</a>
+    <a href="https://snazzy-piroshki-c04e4d.netlify.app">View Demo »</a>
   </p>
 </div>
 
