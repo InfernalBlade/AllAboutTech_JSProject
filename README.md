@@ -70,7 +70,7 @@ A News App that show all the latest and top stories about tech all over the worl
 
 Alessandro B. Tokaryev - alebtokaryev@gmail.com
 
-Project Link: [https://github.com/InfernalBlade/AllAboutTech-JS_Advanced_Project]
+Project Link: [https://github.com/InfernalBlade/AllAboutTech_JSProject]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
